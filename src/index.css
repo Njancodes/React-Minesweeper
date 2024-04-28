@@ -1,0 +1,13 @@
+.tile-container{
+  display: grid;
+  grid-template-rows: repeat(9, 50px);
+  grid-template-columns: repeat(9, 50px);
+}
+
+.tile-number{
+  background-color: grey;
+}
+
+.tile-mine{
+  background-color: red;
+}
