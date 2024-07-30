@@ -1,4 +1,4 @@
-# Minesweeper Game
+# React-Minesweeper
 
 A classic Minesweeper game built with React.
 
